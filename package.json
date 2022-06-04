@@ -1,0 +1,10 @@
+{
+  "name": "m3-colors",
+  "version": "0.1",
+  "description": "Generate Dodona colors based on the Material 3 spec",
+  "main": "index.js",
+  "repository": "https://github.com/dodona-edu/m3-colors",
+  "author": "Bart Mesuere <Bart.Mesuere@UGent.be>",
+  "license": "MIT",
+  "private": true
+}
